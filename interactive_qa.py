@@ -15,7 +15,7 @@ src_dir = current_dir / "src"
 sys.path.insert(0, str(src_dir))
 
 try:
-    from provenance_qa import create_qa_engine, QAResponse
+    from src.provenance_qa import create_qa_engine, QAResponse
     print("✅ Successfully imported Module 9 QA system")
 except ImportError as e:
     print(f"❌ Error importing Module 9: {e}")
