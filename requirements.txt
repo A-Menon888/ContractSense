@@ -1,0 +1,35 @@
+# Core document processing (simplified to avoid compilation issues)
+PyMuPDF  # Use latest available wheel
+pdfminer.six==20231228
+python-docx==1.1.0
+# pytesseract==0.3.10  # Optional - uncomment if OCR needed
+
+# NLP and text processing
+spacy>=3.7.0
+# spacy-transformers==1.3.4  # Optional - heavy dependency
+nltk==3.8.1
+
+# Data processing
+pandas==2.1.4
+numpy>=1.24.0
+pillow==10.1.0
+
+# Utilities
+tqdm==4.66.1
+click==8.1.7
+pydantic==2.5.1
+# python-magic-bin==0.4.14  # For Windows file type detection - optional
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Configuration
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Logging
+loguru==0.7.2
+
+# Module 9: Gemini API integration for Provenance QA
+google-generativeai>=0.3.0
