@@ -382,9 +382,14 @@ class ProvenanceQAEngine:
                 # Also check for text files
                 txt_files = []
                 if (cuad_path / "full_contract_txt").exists():
-                    txt_files = list((cuad_path / "full_contract_txt").glob("*.txt"))
+                    # Prefer most recently modified files first
+                    txt_files = sorted(
+                        (cuad_path / "full_contract_txt").glob("*.txt"),
+                        key=lambda p: p.stat().st_mtime,
+                        reverse=True
+                    )
                 
-                for txt_file in txt_files[:5]:  # Limit to 5 text files
+                for txt_file in txt_files[:20]:  # Consider up to 20 recent text files
                     try:
                         with open(txt_file, 'r', encoding='utf-8', errors='ignore') as f:
                             content = f.read()

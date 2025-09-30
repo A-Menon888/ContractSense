@@ -1,0 +1,107 @@
+1. Introduction
+
+This Agreement ("Agreement") is entered into on this 1st day of October, 2025, by and between:
+
+Party A: [Company Name], a corporation duly organized and existing under the laws of [Jurisdiction], with its principal office at [Address] ("Provider").
+
+Party B: [Client Name], a corporation duly organized and existing under the laws of [Jurisdiction], with its principal office at [Address] ("Client").
+
+Collectively, the "Parties."
+
+2. Scope of Services
+
+Provider agrees to provide the following services to Client:
+
+Provide consulting services regarding [service description].
+
+Deliver [product or service] as specified in Exhibit A.
+
+All services shall be provided in accordance with the timeline outlined in Exhibit B.
+
+The Parties acknowledge and agree that the Provider will deliver the services according to the schedule, and the Client shall cooperate fully in ensuring that all necessary resources are provided.
+
+3. Payment and Fees
+
+The Client shall pay the Provider a fee of $500,000 for the services outlined in Section 2.
+
+Payments will be made in three installments:
+
+First installment of $150,000 due upon signing this Agreement.
+
+Second installment of $200,000 due upon completion of [service milestone].
+
+Final installment of $150,000 due upon completion and acceptance of the services.
+
+Failure to make payments on time will result in a penalty fee of 5% of the total fee per month of delay.
+
+4. Liability and Indemnity
+
+Indemnification by Provider:
+
+The Provider agrees to indemnify, defend, and hold harmless the Client, its directors, officers, employees, and agents, from and against any and all claims, liabilities, damages, losses, or expenses (including reasonable legal fees) arising out of the Provider's negligence, willful misconduct, or failure to perform under this Agreement.
+
+Indemnification by Client:
+
+The Client agrees to indemnify, defend, and hold harmless the Provider, its directors, officers, employees, and agents, from and against any and all claims, liabilities, damages, losses, or expenses (including reasonable legal fees) arising out of the Client's negligence, willful misconduct, or failure to perform under this Agreement.
+
+Limitation of Liability:
+
+Under no circumstances shall the Provider be liable to the Client for any indirect, incidental, special, or consequential damages, including but not limited to lost profits, loss of data, or business interruption, even if the Provider has been advised of the possibility of such damages.
+
+The maximum liability of the Provider for any claim arising from this Agreement shall not exceed the total amount paid by the Client to the Provider under this Agreement.
+
+5. Termination
+
+Termination by Client:
+
+The Client may terminate this Agreement at any time upon providing written notice to the Provider. In the event of such termination, the Client shall pay the Provider for all services rendered up to the date of termination.
+
+Termination by Provider:
+
+The Provider may terminate this Agreement in the event that the Client breaches any of its obligations and fails to cure the breach within 30 days after receiving written notice of the breach.
+
+Termination for Convenience:
+
+Either Party may terminate this Agreement for convenience upon giving 60 days' written notice to the other Party. In the event of such termination, the Client shall pay the Provider for all work completed up to the termination date.
+
+Breach and Penalties:
+
+In the event of a breach by either Party, the breaching Party shall be liable to pay the non-breaching Party a penalty of $100,000 or 10% of the contract value, whichever is greater.
+
+6. Confidentiality
+
+Confidential Information:
+
+Both Parties agree to keep confidential all proprietary or confidential information exchanged during the course of this Agreement, including business, technical, and financial information, unless otherwise agreed upon in writing.
+
+Exclusions:
+
+Confidential information does not include information that is publicly available, already known to the recipient, or obtained through legal means from a third party not bound by confidentiality.
+
+7. Force Majeure
+
+Neither Party shall be held liable for any delay or failure in performance under this Agreement due to causes beyond its reasonable control, including, but not limited to, acts of God, war, fire, flood, terrorism, or government regulations.
+
+8. Governing Law and Dispute Resolution
+
+Governing Law:
+
+This Agreement shall be governed by and construed in accordance with the laws of [State/Country], without regard to its conflict of law principles.
+
+Arbitration:
+
+Any disputes arising out of or in connection with this Agreement shall be resolved through binding arbitration in [Location], under the rules of the [Arbitration Body].
+
+9. Miscellaneous
+
+Amendments:
+
+Any amendments to this Agreement must be made in writing and signed by both Parties.
+
+Entire Agreement:
+
+This Agreement constitutes the entire understanding between the Parties and supersedes all prior agreements or understandings, whether oral or written.
+
+Severability:
+
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
